@@ -5,3 +5,5 @@ Changes for commit with branch
 Cherry-pick changes 1
 Cherry-pick changes 2
 Cherry-pick changes 4
+Changes for squashing 1
+Changes for squashing 2
